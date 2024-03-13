@@ -1,18 +1,18 @@
 O que ?
 O que deve conter no sistema ?
 Quais são os problemas e os obstaculos do modelo antigo do sistema para a necessidade de um novo sistema?
-
+controle da parte interna da Doimagem.
 Quem?
 Quem vai utilizar esse sistema e quem vai ter o acesso?
 Pessoas especializadas? Todo mundo da empresa? Funcionarios da area de tecnologia?
-
+estagiarios devem conseguir usar o site.
 
 Onde?
-
+um site frontend que se conecte e utilize os recursos de uma API.
 
 Por que?
 Por que é necessário o sistema?
-
+o sistema é  muito complicado  até pra quem é da empresa . a interface dele e muito complicada deixando dificil pra quem é estagiario 
 
 Quando?
 Quando vai ser usado o sistema?
@@ -21,6 +21,6 @@ Quando vocês sentiram a necessidade de um novo sistema?
 
 Como?
 Como esse sistema vai ajudar/influenciar a empresa?
-
+usando o HTML, CSS Python 
 Quanto?
 Há quanto tempo o modelo antigo roda na empresa?
