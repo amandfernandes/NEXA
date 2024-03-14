@@ -1,29 +1,28 @@
 O que ?
 O que deve conter no sistema ?
+
 Quais são os problemas e os obstaculos do modelo antigo do sistema para a necessidade de um novo sistema?
 Controle da parte interna do site.
 
 Quem?
 Quem vai utilizar esse sistema e quem vai ter o acesso?
-Pessoas especializadas? Todo mundo da empresa? Funcionarios da area de tecnologia?
-Estagiarios devem conseguir usar o site.
+Administrativo da Dosimagem
 
 Onde?
 Um site frontend que se conecte e utilize os recursos de uma API.
 
 Por que?
 Por que é necessário o sistema?
-O sistema é  muito complicado  até pra quem é da empresa . a interface dele e muito complicada deixando dificil pra quem é estagiario 
+O sistema é  muito complicado  até pra quem é da empresa . a interface dele e muito complicada deixando dificil pra quem é do administrativo de solucionar .  
 
 Quando?
 Quando vai ser usado o sistema?
-Quando vocês sentiram a necessidade de um novo sistema?
-Ao decorrer do semestre 
+o sistema vai ser usado quando a dosImagem tiver uma demanda entre medico e exame.  
 
 Como?
 Como esse sistema vai ajudar/influenciar a empresa?
-Usando o HTML, CSS 
+Vai facilitar a intercomunicação da empresa entre medico e exame. 
 
 Quanto?
-Há quanto tempo o modelo antigo roda na empresa?
-Ganhamos experiencia no mercado 
+Há quanto tempo levará para completar o front a empresa?
+O semestre de 2024.1.
