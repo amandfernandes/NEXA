@@ -15,7 +15,7 @@
   O sistema atual não é prático e dificulta a interação do usuário com o sistema, mesmo para pessoas especializadas, o que impossibilita pessoas não aptas utiliza-lo. Conclui-se, diante disso, que o sistema é necessário para criar um novo sistema para melhorar sua usabilidade.
 
 ### When? Quando vai ser usado o sistema?
-  Durante o período de rxpediente, o sistema será utilizado para gerenciar as imagens dos exames enviadas pelos clientes. Esse uso se dará quando houver uma demanda entre médico e exame. A integração do sistema facilitará a comunicação e agilizará o processo de análise e tratamento da imagens. 
+  Durante o período de expediente, o sistema será utilizado para gerenciar as imagens dos exames enviadas pelos clientes. Esse uso se dará quando houver uma demanda entre médico e exame. A integração do sistema facilitará a comunicação e agilizará o processo de análise e tratamento da imagens. 
 
 ### How? Como esse sistema vai ajudar/influenciar a empresa?
  O sistema deve ajudar/influênciar a agilidade e eficia da DosImagem, facilitando a gestão dos exames para entrega de um resultado sem que haja problemas/imprevisto devido ausênsia de uma interface simples e intuitiva. E tambem deve ajudar na intercomunicação da DosImagem com os dados de seu cliente. 
