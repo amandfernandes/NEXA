@@ -3,13 +3,13 @@
 
 ## 💡 5W2H
 ### What? O que deve conter no sistema? Quais são os problemas e os obstaculos do modelo antigo do sistema para a necessidade de um novo sistema?
-  Atualmente, as maiores difeculdades do sistema são; precisar fazer o download de cada item enviado pelo cliente, o que torna possivel esquecer algum dado importante. Ademais o sistema apresenta uma UX/UI muito confusa. Perante isso, a atualização do sistema deve conseguir fazer um fluxo, onde possa ser feito download da todas as informações do site da DosImagem através da API de maneira que o download de todas as informações seja feito de uma única fez. Além de uma interface gráfica facíl e intuitiva para pessoas não técnicas possam utiliza-la. Melhorar, assim, o controle interno.
+  A atualização do sistema deve conseguir fazer um fluxo, onde possa ser feito download da todas as informações do site da DosImagem através da API de maneira que o download de todas as informações seja feito de uma única fez. Além de uma interface gráfica facíl e intuitiva para pessoas não técnicas possam utiliza-la. Melhorar, assim, o controle interno.
 
 ### Who? Quem vai utilizar esse sistema? Quem vai ter o acesso?
   O sistema deve ser utilizado por pessoas não técnicas, sem o dominio de tecnologia. Especificamente o administrativo deve conseguir acessar, como estágiarios administrativos.
 
 ### Where?  Aonde será implantado esse sistema?
-  O sistema será conectado e utilizará de recursos de uma API, sendo implamentado em processos administrativos, como se fosse um intermediario entre o Cliente e Software de tratamento das imagens. Ou seja, deve administrar os dados, como por exemplo upload para o site e download para o sistema.
+  O sistema será implantado no computador dos funcionários, através de um servidor web.
 
 ### Why? Por que é necessário o sistema?
   O sistema atual não é prático e dificulta a interação do usuário com o sistema, mesmo para pessoas especializadas, o que impossibilita pessoas não aptas utiliza-lo. Conclui-se, diante disso, que o sistema é necessário para criar um novo sistema para melhorar sua usabilidade.
