@@ -1,4 +1,4 @@
-## **Caso de Uso**: Recuperação de Senha
+## **3ºCaso de Uso**: Recuperação de Senha
 
 ### Descrição:
   → Este caso de uso descreve o processo pelo qual o usuário pode recuperar sua senha caso a tenha esquecido, utilizando um método de recuperação de senha.
