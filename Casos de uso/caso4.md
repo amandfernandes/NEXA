@@ -1,10 +1,10 @@
 ## 🗒️ **4º Caso de Uso**: Dados de calibração 
 
 ### Descrição: 
-  Inserção dos dados da calibração a partir de um formulario oferecido pelo sistema
+* Inserção dos dados da calibração a partir de um formulario oferecido pelo sistema
 
 ### Ator Principal: 
-   Usuário: Cliente
+* Usuário: Cliente
 
 ### Pré-condições:
 * O Usuário precisa está cadastrado com o e-mail no sistema
