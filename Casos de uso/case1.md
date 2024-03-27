@@ -24,6 +24,6 @@
 - 	O sistema fornece ao usuário a opção de redefinir a senha.
 -	O estado geral do sistema não é alterado.
 
-## Extensão(Fluxo Alternativo):
+### Extensão(Fluxo Alternativo):
 - Se o usuario optar por redefinir senha, o sistema deve iniciar o caso de uso de Recuperação de senha.
 - Se o usuário optar por tentar novamente, o sistema permanece na tela de login, permitindo que o usuário insira as credenciais novamente.
