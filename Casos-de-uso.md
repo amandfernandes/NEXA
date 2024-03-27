@@ -4,14 +4,14 @@ Bem-vindo a página principal dos casos de uso! Aqui você pode encontrar links 
 
 ### Sumário
 
-1. 
+1. [Senha Invalida](Casos%20de%20uso/case1.md)
 2. [Download](Casos%20de%20uso/case2.md)
-3. d
+3. 
 4. [Dados de calibração](Casos%20de%20uso/caso4.md)
 
 ________
 
-- 📌 **C-01: Login**
+- 📌 **C-01: Senha Invalida**
 
 - 📌 **C-02: Download**
 
