@@ -7,7 +7,7 @@ Bem-vindo a página principal dos casos de uso! Aqui você pode encontrar links 
 1. 
 2. [Download](Casos%20de%20uso/case2.md)
 3. d
-4. 
+4. [Dados de calibração]((https://github.com/amandfernandes/NEXA/blob/inicio-casos-uso/Casos%20de%20uso/caso4.md))
 
 ________
 
