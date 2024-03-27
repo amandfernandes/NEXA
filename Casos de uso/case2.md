@@ -1,5 +1,10 @@
 ## ⚡ **2º Caso de Uso**: Download 
 
+### Descrição: 
+ → Download de todas as imagens e dados enviados a partir do site principal, através da API.
+
+### Ator Principal: 
+  → Usuário: Funcionários da DosImagem, especificamente o administrativo
 
 ### Pré-condições:
 - Usuário está autenticado no sistema.
