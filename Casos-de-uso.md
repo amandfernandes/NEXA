@@ -6,7 +6,7 @@ Bem-vindo a página principal dos casos de uso! Aqui você pode encontrar links 
 
 1. [Senha Invalida](Casos%20de%20uso/case1.md)
 2. [Download](Casos%20de%20uso/case2.md)
-3. 
+3. [Recuperação de Senha](Casos%20de%20uso/caso3.md)
 4. [Dados de calibração](Casos%20de%20uso/caso4.md)
 
 ________
@@ -17,7 +17,7 @@ ________
 
 Neste caso de uso, o usuário pode baixar todas as suas imagens e dados enviados a partir do site principal, através da API, de uma só vez. [Clique aqui para mais detalhes](Casos%20de%20uso/case2.md).
 
-- 📌 **C-03:**
+- 📌 **C-03: Recuperação de Senha** 
 
 - 📌 **C-04: Dados de calibração**
 
