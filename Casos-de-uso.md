@@ -21,7 +21,7 @@ Neste caso de uso, o usuário pode baixar todas as suas imagens e dados enviados
 
 - 📌 **C-03: Recuperação de Senha** 
 
-- 📌 **C-04: Dados de calibração**
+- 📌 **C-04: ???**
 
 - 📌 **C-05: Prescrição de Laudo Eletrônico**
 
