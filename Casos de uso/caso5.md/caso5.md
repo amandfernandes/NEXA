@@ -1,4 +1,4 @@
-⚡ 1º Caso de Uso : Prescrição de Laudo Eletrônico
+⚡ 5º Caso de Uso : Prescrição de Laudo Eletrônico
 
 Descrição:
 → elaborar e emitir um documento formal utilizando meios eletrônicos em vez de papel
