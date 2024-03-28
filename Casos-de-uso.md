@@ -8,6 +8,7 @@ Bem-vindo a página principal dos casos de uso! Aqui você pode encontrar links 
 2. [Download](Casos%20de%20uso/case2.md)
 3. [Recuperação de Senha](Casos%20de%20uso/caso3.md)
 4. [Dados de calibração](Casos%20de%20uso/caso4.md)
+5. [Prescrição de Laudo Eletrônico](Casos%20de%20uso/caso5.md/caso5.md)
 
 ________
 
@@ -20,5 +21,8 @@ Neste caso de uso, o usuário pode baixar todas as suas imagens e dados enviados
 - 📌 **C-03: Recuperação de Senha** 
 
 - 📌 **C-04: Dados de calibração**
+
+- 📌 **C-05: Prescrição de Laudo Eletrônico**
+
 
   
