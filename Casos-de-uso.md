@@ -25,7 +25,7 @@ Neste caso de uso, o usuário pode baixar todas as suas imagens e dados enviados
 
 - 📌 **C-05: Prescrição de Laudo Eletrônico**
 
-- - 📌 **C-Cliente: Prescrição de Registro dos dados de calibração do paciente**
+- 📌 **C-Cliente: Prescrição de Registro dos dados de calibração do paciente**
 
 
 
