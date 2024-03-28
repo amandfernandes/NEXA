@@ -20,5 +20,5 @@
 
 ### Pós-condições:
 * O Usuário terá o acesso a area `"Meu serviços"` e poderá acompanhar com detalhes todo o processo da dosimetria e da sua analise
-* O Sistema irá disponibilizar esses dados para os funcionarios realizarem as [analises](Casos%20de%20uso/caso4.md)
+* O Sistema irá disponibilizar esses dados para os funcionarios realizarem as analises
 * Apos a finalizarem as analises, o usuário terá o acesso para download um PDF completo da analise realizada
