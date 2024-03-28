@@ -25,7 +25,7 @@ Este caso de uso descreve o processo pelo qual o usuário pode recuperar sua sen
 
 - 📌 **C-04: Analise completa**
 
-Analise completa do paciente, usando softwares da empresa. [Clique aqui para mais detalhes](Casos%20de%20uso/case4.md).
+Analise completa do paciente, usando softwares da empresa. [Clique aqui para mais detalhes](Casos%20de%20uso/caso4.md).
 
 - 📌 **C-05: Prescrição de Laudo Eletrônico**
 
