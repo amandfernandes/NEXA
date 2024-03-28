@@ -9,9 +9,9 @@
 
 ### Pré-condições:
 
-O sistema está em execução.
-O usuário possui uma conta válida.
-O usuário esqueceu sua senha e deseja recuperá-la.
+- O sistema está em execução.
+- O usuário possui uma conta válida.
+- O usuário esqueceu sua senha e deseja recuperá-la.
 
 ### Fluxo Principal:
 
