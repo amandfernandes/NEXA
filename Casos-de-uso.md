@@ -23,6 +23,8 @@ Neste caso de uso, o usuário pode baixar todas as suas imagens e dados enviados
 
 - 📌 **C-04: Analise completa**
 
+Analise completa do paciente, usando softwares da empresa. [Clique aqui para mais detalhes](Casos%20de%20uso/case4.md).
+
 - 📌 **C-05: Prescrição de Laudo Eletrônico**
 
 - 📌 **C-06/Cliente: Registro dos dados de calibração do paciente**
