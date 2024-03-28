@@ -19,7 +19,9 @@ ________
 
 Neste caso de uso, o usuário pode baixar todas as suas imagens e dados enviados a partir do site principal, através da API, de uma só vez. [Clique aqui para mais detalhes](Casos%20de%20uso/case2.md).
 
-- 📌 **C-03: Recuperação de Senha** 
+- 📌 **C-03: Recuperação de Senha**
+  
+Este caso de uso descreve o processo pelo qual o usuário pode recuperar sua senha caso a tenha esquecido, utilizando um método de recuperação de senha.[Clique aqui para mais detalhes](Casos%20de%20uso/caso3.md).
 
 - 📌 **C-04: Analise completa**
 
