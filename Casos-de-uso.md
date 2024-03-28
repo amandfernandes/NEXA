@@ -29,6 +29,6 @@ Analise completa do paciente, usando softwares da empresa. [Clique aqui para mai
 
 - 📌 **C-06/Cliente: Registro dos dados de calibração do paciente**
 
-
+Inserção dos dados da calibração a partir de um formulario oferecido pelo sistema para realizar a analise [Clique aqui para mais detalhes](Casos%20de%20uso/case.md)
 ________
   
