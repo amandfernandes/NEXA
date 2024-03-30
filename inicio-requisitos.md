@@ -1,7 +1,6 @@
 ## 🎈Requisitos em Linguagem Natural
 - O sistema deve ser capaz de identificar os usuários que tenham permissão 
 - O sistema deve apresentar uma interface simples e intuitiva 
-- O sistema deve ter a habilidade de pesquisar, filtrar e vizualizar os dados da DosImagem
 - O sistema deve ser capaz de enviar os relatórios técnicos para o cliente já finalizados
 - O sistema deve pemitir visualização das solicitações recebidas 
 - O sistema deve permitir que os usuários façam upload de imagens e dados enviados pelo cliente 
