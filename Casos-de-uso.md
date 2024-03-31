@@ -4,33 +4,28 @@ Bem-vindo a página principal dos casos de uso! Aqui você pode encontrar links 
 
 ### Sumário
 
-1. [Senha Invalida](Casos%20de%20uso/case1.md)
+1. [Status do Processo](Casos%20de%20uso/case1.md)
 2. [Download](Casos%20de%20uso/case2.md)
-3. [Recuperação de Senha](Casos%20de%20uso/caso3.md)
-4. [Analise completa](Casos%20de%20uso/caso4.md)
-5. [Prescrição de Laudo Eletrônico](Casos%20de%20uso/caso5.md/caso5.md)
-6. [Registro dos dados de calibração do paciente](Casos%20de%20uso/casodocliente.md) 
+3. [Envio de Relatório](Casos%20de%20uso/case3.md)
+4. [Histórico de Interação](Casos%20de%20uso/case4.md)
+ 
 
-________
+_______
 
-- 📌 **C-01: Senha Invalida**
+- 📌 **C-01: Status do Processo**
+
+Neste caso de uso, o usuário conseguirá obter/visualizar as informações atualizadas sobre o processo de cada um dos serviços contratados. [Clique aqui para mais detalhes](Casos%20de%20uso/case1.md).
 
 - 📌 **C-02: Download**
 
 Neste caso de uso, o usuário pode baixar todas as suas imagens e dados enviados a partir do site principal, através da API, de uma só vez. [Clique aqui para mais detalhes](Casos%20de%20uso/case2.md).
 
-- 📌 **C-03: Recuperação de Senha**
+- 📌 **C-03: Envio de Relátorio**
   
-Este caso de uso descreve o processo pelo qual o usuário pode recuperar sua senha caso a tenha esquecido, utilizando um método de recuperação de senha.[Clique aqui para mais detalhes](Casos%20de%20uso/caso3.md).
+Neste caso, o usuário poderá enviar um relatório técnico do serviço para o cliente no site principal. [Clique aqui para mais detalhes](Casos%20de%20uso/case3.md).
 
-- 📌 **C-04: Analise completa**
+- 📌 **C-04: Histórico de Interação**
 
-Analise completa do paciente, usando softwares da empresa. [Clique aqui para mais detalhes](Casos%20de%20uso/caso4.md).
-
-- 📌 **C-05: Prescrição de Laudo Eletrônico**
-
-- 📌 **C-06/Cliente: Registro dos dados de calibração do paciente**
-
-Inserção dos dados da calibração a partir de um formulario oferecido pelo sistema para realizar a analise [Clique aqui para mais detalhes](Casos%20de%20uso/casodocliente.md)
+Neste caso, o usuário consiguirá visualizar o histórico de suas interações anteriores com o sistema, incluindo ações realizadas, datas e detalhes relevantes. [Clique aqui para mais detalhes](Casos%20de%20uso/case4.md).
 ________
   
