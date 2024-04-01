@@ -40,11 +40,8 @@ Condições:
 O cliente deve ter um endereço de e-mail válido.
 O relatório técnico deve estar em formato PDF.
 
-4. Melhorias:
 
-As frases podem ser ainda mais específicas e detalhadas.
-Podem ser adicionadas outras regras para o sistema.
-5. Exemplos de Regras Adicionais:
+5.  Regras Adicionais:
 
 O sistema deve permitir que os usuários criem e editem seus perfis.
 O sistema deve ter um sistema de backup para garantir a segurança dos dados.
