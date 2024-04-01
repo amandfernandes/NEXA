@@ -1,40 +1,51 @@
+## ⚡ **1º Caso de Uso**:Status do processo
+
+
+Descrição: 
+Serviço de dosimetria contratado por um cliente da empresa DosImagem
+
 Ator Diretor:
-Usuário: Cliente da Dosimagem (paciente ou médico)
+Usuário:Funcionário da empresa DosImagem
 
 Pré-condições:
 
-O usuário deve ter acesso à internet.
-O usuário deve ter um login e senha no site da Dosimagem.
-O usuário deve ter um exame de imagem recente (PET-CT ou SPECT) em formato digital.
+O cliente contratar o serviço
+Reunir os exames de imagem necessários para a dosimetria
 Fluxo Principal:
 
-Passo 1: O usuário acessa o site da Dosimagem e faz login em sua conta.
+Passo 1: Contratação do Serviço:
 
-Passo 2: O usuário seleciona a opção "Solicitar Dosimetria".
+O cliente entra em contato com a DosImagem por meio do site, telefone, e-mail ou presencialmente para solicitar um orçamento.
+A DosImagem envia um orçamento detalhando os serviços a serem prestados, custos e prazos.
+O cliente aprova o orçamento e assina o contrato de prestação de serviços.
+O cliente fornece à DosImagem os dados pessoais, exames de imagem e demais informações necessárias para a dosimetria.
+Passo 2: Download e Análise das Informações:
 
-Passo 3: O usuário preenche um formulário com seus dados pessoais, informações sobre o seu tumor e anexa o exame de imagem.
+Os funcionários da DosImagem baixam os exames de imagem e demais informações enviadas pelo cliente em um ambiente seguro e confidencial.
+A equipe de físicos médicos e radioterapeutas da DosImagem analisa cuidadosamente as informações do cliente, incluindo:
+Tipo de tumor
+Localização do tumor
+Tamanho do tumor
+Estado de saúde do paciente
+Historial médico do paciente
+Resultados de exames anteriores
+Prescrições médicas
+Passo 3: Elaboração e Envio do Relatório:
 
-Passo 4: A Dosimagem calcula a dose de radiação ideal para o paciente e envia o plano de tratamento personalizado para o médico do paciente.
+Com base na análise das informações do cliente, a equipe da DosImagem elabora um relatório detalhado contendo:
 
-Pós-condições:
+Delineamento do tumor
+Cálculo da dose de radiação
+Plano de tratamento radioterápico
+Informações sobre os riscos e benefícios da radioterapia
+Orientações para o paciente
+O relatório da dosimetria é revisado por um físico médico sênior antes de ser enviado ao cliente.
 
-O paciente recebe um plano de tratamento personalizado para o seu tumor.
-O médico do paciente tem acesso à informação necessária para tomar as melhores decisões sobre o tratamento do paciente.
-Extensão (Fluxo Alternativo):
+O cliente recebe o relatório da dosimetria por e-mail, correio ou em mãos.
 
-Passo 1: O usuário acessa o site da Dosimagem e faz login em sua conta.
+ Pós-condições:
 
-Passo 2: O usuário seleciona a opção "Acompanhar Processo de Dosimetria".
-
-Passo 3: O usuário digita o número do seu pedido de dosimetria.
-
-Passo 4: O usuário visualiza o status do seu pedido de dosimetria, incluindo a data de envio, a data de conclusão e o plano de tratamento personalizado.
-### Pós-condições:
--	O sistema mantém o estado da sessão de login do usuário.
--	O sistema exibe uma mensagem de erro indicando que a senha fornecida está incorreta.
-- 	O sistema fornece ao usuário a opção de redefinir a senha.
--	O estado geral do sistema não é alterado.
-
-### Extensão(Fluxo Alternativo):
-- Se o usuario optar por redefinir senha, o sistema deve iniciar o caso de uso de Recuperação de senha.
-- Se o usuário optar por tentar novamente, o sistema permanece na tela de login, permitindo que o usuário insira as credenciais novamente.
+Durante todo esse processo o cliente poderá acompanhar o status do processo.
+a partir do momento da contratação do serviço o cliente poderá ver (serviço contratado)
+a partir do momento do download das informações o cliente poderá ver (serviço em andamento)
+a partir do momento do envio do relatório o cliente poderá ver(serviço concludo)
