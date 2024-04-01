@@ -41,7 +41,7 @@ O cliente deve ter um endereço de e-mail válido.
 O relatório técnico deve estar em formato PDF.
 
 
-5.  Regras Adicionais:
+4.  Regras Adicionais:
 
 O sistema deve permitir que os usuários criem e editem seus perfis.
 O sistema deve ter um sistema de backup para garantir a segurança dos dados.
