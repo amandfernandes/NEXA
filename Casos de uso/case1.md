@@ -1,23 +1,34 @@
-## ⚡ **1º Caso de Uso**:Senha invalida
+Ator Diretor:
+Usuário: Cliente da Dosimagem (paciente ou médico)
 
-### Descrição: 
-  → O sistema verifica e notifica o usuário sobre a senha incorreta, oferecendo opções para redefinir a senha ou tentar novamente.
+Pré-condições:
 
-### Ator Principal: 
-  → Usuário: Funcionários da DosImagem, especificamente o administrativo
+O usuário deve ter acesso à internet.
+O usuário deve ter um login e senha no site da Dosimagem.
+O usuário deve ter um exame de imagem recente (PET-CT ou SPECT) em formato digital.
+Fluxo Principal:
 
+Passo 1: O usuário acessa o site da Dosimagem e faz login em sua conta.
 
-### Pré-condições:
--	O sistema está em execução.
--	O usuário possui uma conta válida.
--	O usuário tentou fazer login inserindo suas credenciais de usuário (nome de usuário ou e-mail) e senha.
+Passo 2: O usuário seleciona a opção "Solicitar Dosimetria".
 
-### Fluxo Principal: 
-- **Passo 1**:O usuário tenta fazer login inserindo suas credenciais de usuário (nome de usuário ou e-mail) e uma senha incorreta.
-- **Passo 2**:O sistema verifica as credenciais fornecidas pelo usuário.
-- **Passo 3**:O sistema identifica que a senha inserida está incorreta.
-- **Passo 4**:O sistema exibe uma mensagem de erro informando ao usuário que a senha está incorreta e fornece uma opção para redefinir a senha.
+Passo 3: O usuário preenche um formulário com seus dados pessoais, informações sobre o seu tumor e anexa o exame de imagem.
 
+Passo 4: A Dosimagem calcula a dose de radiação ideal para o paciente e envia o plano de tratamento personalizado para o médico do paciente.
+
+Pós-condições:
+
+O paciente recebe um plano de tratamento personalizado para o seu tumor.
+O médico do paciente tem acesso à informação necessária para tomar as melhores decisões sobre o tratamento do paciente.
+Extensão (Fluxo Alternativo):
+
+Passo 1: O usuário acessa o site da Dosimagem e faz login em sua conta.
+
+Passo 2: O usuário seleciona a opção "Acompanhar Processo de Dosimetria".
+
+Passo 3: O usuário digita o número do seu pedido de dosimetria.
+
+Passo 4: O usuário visualiza o status do seu pedido de dosimetria, incluindo a data de envio, a data de conclusão e o plano de tratamento personalizado.
 ### Pós-condições:
 -	O sistema mantém o estado da sessão de login do usuário.
 -	O sistema exibe uma mensagem de erro indicando que a senha fornecida está incorreta.
