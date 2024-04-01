@@ -1,10 +1,10 @@
-## 🗒️ **3º Caso de Uso:  Envio de relatório**:  
+## 🗒️ **3º Caso de Uso:  Envio do relatório**:  
 
 ### Descrição: 
 * Envio do relatório, realizado pelo software interno da empresa, para o cliente
 
 ### Ator Principal: 
-   Usuário: Funcionarios experientes com o sistema oferecido pela empresa
+*  Usuário: Funcionarios experientes com o sistema oferecido pela empresa
 
 ### Pré-condições:
 * Usuário está logado no sistema.
