@@ -4,7 +4,7 @@
 → O processo pelo qual um usuário pode verificar o status de um serviço em andamento.
 
 ### Ator Principal:
-Usuário: Funcionários da DosImagem
+→ Usuário: Funcionários da DosImagem
 
 ### Pré-condições:
 - Usuário está autenticado no sistema
