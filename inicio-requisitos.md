@@ -27,6 +27,10 @@ Como desenvolvedor, quero que o sistema guarde os arquivos dentro da sua API
 O sistema deve enviar os arquivos e relatórios e armazenar dentro da API
 Como desenvolvedor, quero que o sistema disponibilize o relatório para o cliente
 
+* RF-05: O sistema deve permitir a visualização das solicitações recebidas pelos usuários, fornecendo informações detalhadas sobre cada solicitação, como data de recebimento, tipo de solicitação e estado atual, sem restrições adicionais além das permissões de acesso adequadas.
+
+* RF-06: O sistema deve permitir que os usuários façam upload de imagens e dados enviados pelo cliente sem restrições adicionais, desde que estejam dentro dos limites de tamanho e formato especificados pelo sistema.
+
 ### Não Funcionais
 - RNF-01: Utilização de tecnologia Framework Front-End;
 
