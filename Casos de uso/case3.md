@@ -1,38 +1,26 @@
-## **3ºCaso de Uso**: Recuperação de Senha
+## 🗒️ **3º Caso de Uso:  Envio de relatório**:  
 
-### Descrição:
-  → Este caso de uso descreve o processo pelo qual o usuário pode recuperar sua senha caso a tenha esquecido, utilizando um método de recuperação de senha.
+### Descrição: 
+* Envio do relatório, realizado pelo software interno da empresa, para o cliente
 
-### Ator Principal:
-
-  → Usuário: Funcionários da DosImagem, especificamente o administrativo
+### Ator Principal: 
+   Usuário: Funcionarios com o sistema oferecido pela empresa
 
 ### Pré-condições:
+* Usuário está logado no sistema.
+* O relatório devera está completo, com todas os dados importantes
 
-- O sistema está em execução.
-- O usuário possui uma conta válida.
-- O usuário esqueceu sua senha e deseja recuperá-la.
 
-### Fluxo Principal:
-
-- **passo 1**: O usuário acessa a opção de recuperação de senha na página de login.
-- **passo 2**: O sistema apresenta opções para o usuário escolher o método de recuperação de senha.
-- **passo 3**: O usuário seleciona um método de recuperação de senha disponível, como e-mail, SMS ou pergunta de segurança.
-- **passo 4**: O usuário fornece as informações necessárias de acordo com o método escolhido, como endereço de e-mail, número de telefone ou respostas às perguntas de segurança.
-- **passo 5**: O sistema valida as informações fornecidas pelo usuário.
-- **passo 6**: Se as informações forem válidas, o sistema envia um link de redefinição de senha para o usuário por e-mail, SMS ou apresenta uma página para definir uma nova senha.
-- **passo 7**: O usuário acessa o link enviado pelo sistema ou insere a nova senha na página apresentada.
-- **passo 8**: O sistema valida a nova senha conforme os critérios de segurança estabelecidos.
-- **passo 9**: Se a nova senha for válida, o sistema atualiza a senha na base de dados e confirma a recuperação da senha.
-- **passo 10**: O sistema redireciona o usuário para a página de login.
+### Fluxo Principal: 
+- **Passo 1**: O Usuário entrar no sistema
+- **Passo 2**: O Usuário verificar se o relatório já está disponível
+- **Passo 3**: Se tiver disponível, o usuário salvar o relatório
+- **Passo 4**: O Usuário deve entra na aba especifica de `"Clinic Dosimetrics"`
+- **Passo 5**: O Usuário entrar no número do cliente que deseja enviar o relatório
+- **Passo 6**: O Usúario colocar as informações necessárias na primeira aba e o status
+- **Passo 7**: O Usúario colocar o relatório na aba de `"Arquivos"`
+- **Passo 8**: O Usúario atualizar, enviando os dados para a API do website
 
 ### Pós-condições:
-
-- O sistema permite que o usuário recupere sua senha utilizando um método de recuperação de senha.
-- A senha do usuário é alterada com sucesso.
-- O usuário é capaz de fazer login com a nova senha.
-
-### Extensão (Fluxo Alternativo):
-
-- Se as informações fornecidas pelo usuário não forem válidas, o sistema exibe uma mensagem de erro e permite que o usuário tente novamente.
-- Se o usuário cancelar o processo de recuperação de senha, o sistema redireciona o usuário de volta para a tela de login.
+*   As alteraçoes ficam salvas na API
+*   O cliente terá o acesso do download do relatório completo, em PDF
