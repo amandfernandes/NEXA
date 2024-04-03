@@ -21,7 +21,4 @@
  O sistema deve ajudar/influênciar a agilidade e eficia da DosImagem, facilitando a gestão dos exames para entrega de um resultado sem que haja problemas/imprevisto devido ausênsia de uma interface simples e intuitiva. E tambem deve ajudar na intercomunicação da DosImagem com os dados de seu cliente. 
 
 ### How Much? Quanto tempo levará para para que o sistema seja implantado?
-A meta para a finalização do projeto para a implantaçãi do sistema está prevista para final de 2024.1.
-
-## ❓ Dúvidas
-
+A meta para a finalização do projeto para a implantação do sistema está prevista para final de 2024.1.
