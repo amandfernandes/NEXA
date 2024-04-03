@@ -1,4 +1,4 @@
-## ⚡ **4º Caso de Uso: Registro de Histórico de Interações com Clientes**:  
+## ⚡ **4º Caso de Uso: Registro de Histórico de Interações**:  
 
 ### Descrição: 
 → O sistema registra automaticamente as ações passadas no sistema, incluindo detalhes e datas relevantes, mantendo um histórico atualizado para acompanhamento e referência futura.
